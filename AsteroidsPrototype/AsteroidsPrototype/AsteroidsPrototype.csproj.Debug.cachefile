@@ -1,0 +1,38 @@
+Content\default sprite.xnb
+Content\background.xnb
+Content\ship.xnb
+Content\large asteroid.xnb
+Content\small asteroid.xnb
+Content\laser.xnb
+Content\bang.xnb
+Content\shield1.xnb
+Content\shield2.xnb
+Content\IconChainLightning.xnb
+Content\IconLaser.xnb
+Content\IconShotGun.xnb
+Content\IconOrbre.xnb
+Content\whiteFade.xnb
+Content\SpriteVide.xnb
+Content\ShotgunPowerup.xnb
+Content\Menus\menuButton.xnb
+Content\Menus\menuButtonHighlighted.xnb
+Content\FrostOrbPowerup.xnb
+Content\TimeFreezePowerup.xnb
+Content\RandomPowerup.xnb
+Content\colorBackground.xnb
+Content\weaponsLockPowerup.xnb
+Content\shieldPowerup.xnb
+Content\asd.xnb
+Content\Fonts\Hud.xnb
+Content\Fonts\LargeHud.xnb
+Content\Fonts\legalFont.xnb
+Content\Laser_Shoot33.xnb
+Content\Laser_Shoot34.xnb
+Content\Laser_Shorter.xnb
+Content\ShotGun.xnb
+Content\Explosion8.xnb
+Content\36secLoopMusic.xnb
+Content\time-start.xnb
+Content\time-stop.xnb
+Content\ParticleEffect.xnb
+Content\36secLoopMusic.wma
